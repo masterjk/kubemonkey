@@ -1,0 +1,9 @@
+[submodule "kubemonkey-proxy"]
+	path = kubemonkey-proxy
+	url = git@github.com:masterjk/kubemonkey-proxy.git
+[submodule "kubemonkey-cuberite"]
+	path = kubemonkey-cuberite
+	url = git@github.com:masterjk/kubemonkey-cuberite.git
+[submodule "kubemonkey-cuberite-plugin"]
+	path = kubemonkey-cuberite-plugin
+	url = git@github.com:masterjk/kubemonkey-cuberite-plugin.git
